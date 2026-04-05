@@ -1,0 +1,3 @@
+{"Reason": "Pedophile"}, {"Warning": "Yellow"},
+{"Reason": "Client User"}, {"Warning": "Yellow"},
+{"Reason": "Adult Attracted Minor"}, {"Warning": "Yellow"},

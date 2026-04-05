@@ -1,0 +1,13 @@
+{
+    "show_time": true,
+    "show_tabbed": false,
+    "show_version": true,
+    "show_total_users": true,
+    "show_pcvr": true,
+    "show_vrc_build": false,
+    "show_cpu_type": false,
+    "show_ram_type": false,
+    "show_gpu_type": false,
+    "show_vram_type": false,
+    "show_os": false
+}

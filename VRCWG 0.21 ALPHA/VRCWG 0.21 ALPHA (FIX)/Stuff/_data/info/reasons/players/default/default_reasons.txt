@@ -1,0 +1,8 @@
+{"Reason": "Pedophile", "Warning": "Red"},
+{"Reason": "Zoofile", "Warning": "Red"},
+{"Reason": "Adult Attracted Minor", "Warning": "Orange"},
+{"Reason": "Client User", "Warning": "Orange"},
+{"Reason": "Crasher"}, {"Warning": "Yellow"},
+{"Reason": "Racist"}, {"Warning": "Yellow"},
+{"Reason": "Troll"}, {"Warning": "Yellow"},
+{"Reason": "Watch"}, {"Warning": "Yellow"},
