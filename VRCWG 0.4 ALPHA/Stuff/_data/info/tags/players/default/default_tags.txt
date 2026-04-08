@@ -1,0 +1,3 @@
+{"Tag": "Creator", "Image": "creator_icon.png"},
+{"Tag": "Furry Hideout Staff", "Image": "furry-hideout_staff_icon.png"},
+{"Tag": "VRChat Staff", "Image": "vrchat_staff_icon.png"},
