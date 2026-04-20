@@ -175,17 +175,17 @@ It tracks everything happening in your instance and turns it into **clean, usabl
 
 ## ⚠️ REQUIREMENTS
 
-## ❗ YOU MUST INSTALL PYTHON 3.12.10 ❗
+## ❗ YOU MUST INSTALL PYTHON 3.10.0 ❗
 
 Other versions may NOT work. (i think)
 
 ### ⬇️ Quick Download (Windows)
 
-https://www.python.org/ftp/python/3.12.10/python-3.12.10-amd64.exe
+https://www.python.org/ftp/python/3.10.0/python-3.10.0-amd64.exe
 
 ### 🌐 Official Page
 
-https://www.python.org/downloads/release/python-31210/
+https://www.python.org/downloads/release/python-3100
 
 ---
 
@@ -201,7 +201,7 @@ https://www.python.org/downloads/release/python-31210/
 Documents
 ```
 
-### 4️⃣ Install Python 3.12.10 (with pip)
+### 4️⃣ Install Python 3.10.0 (with pip)
 
 ### 5️⃣ Run the tool
 
